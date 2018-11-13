@@ -8,9 +8,13 @@ public class Program
 	{		
 		Classy classy = new Classy();
 		int sum = 0;
+		int diff = 0;
 		
 		sum = classy.sum();
+		diff = classy.diff();
+				
+		System.out.println("The sum is: " + sum);	
 		
-		System.out.println("Sum is: " + sum);		
+		System.out.println("The diff is: " + diff);
 	}
 }
