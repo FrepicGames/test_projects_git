@@ -15,6 +15,6 @@ public class Program
 				
 		System.out.println("The sum is: " + sum);	
 		
-		System.out.println("The diff is: " + diff);
+		System.out.println("Diff is: " + diff);
 	}
 }
