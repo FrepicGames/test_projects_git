@@ -11,6 +11,6 @@ public class Program
 		
 		sum = classy.sum();
 		
-		System.out.println("The sum is: " + sum);		
+		System.out.println("Sum is: " + sum);		
 	}
 }
